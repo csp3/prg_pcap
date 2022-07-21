@@ -1,0 +1,6 @@
+
+
+namespace nombre_variables 
+{
+    
+}
